@@ -44,8 +44,21 @@ if($enviaremail) {
         <!--[if gt IE 8]><!-->
             <link rel='stylesheet' href='css/layouts/marketing.css'>
         <!--<![endif]-->
+        <link rel='stylesheet' href='css/layouts/msg.css'>
 </head>
 <body>
+<div class='header'>
+    <div class='home-menu pure-menu pure-menu-horizontal pure-menu-fixed'>
+        <a class='pure-menu-heading' href=''>EducVirtual</a>
+
+        <ul class='pure-menu-list'>
+            <li class='pure-menu-item pure-menu-selected'><a href='' class='pure-menu-link'>Início</a></li>
+            <li class='pure-menu-item'><a href='#servico' class='pure-menu-link'>Serviços</a></li>
+            <li class='pure-menu-item'><a href='#conato' class='pure-menu-link'>Contato</a></li>
+        </ul>
+
+    </div>
+</div>
 <div class='content'>
         <h2 class='content-head is-center'>Contato</h2>
 
@@ -66,7 +79,7 @@ if($enviaremail) {
 
                         <button type='submit' class='pure-button'>Enviar</button>
                         
-                        <p>" . $msg . "</p>
+                        <p class='msg-sucess'>" . $msg . "</p>
                         
                     </fieldset>
                 </form>
@@ -95,6 +108,7 @@ if($enviaremail) {
 </html>";
 } else {
     $msg = "Erro ao enviar e-mail!";
+    echo " <meta http-equiv='refresh' content='10;URL=index.php'>";
     echo "<!doctype html>
     <html lang='pt-br'>
     <head>
@@ -118,8 +132,21 @@ if($enviaremail) {
         <!--[if gt IE 8]><!-->
             <link rel='stylesheet' href='css/layouts/marketing.css'>
         <!--<![endif]-->
+        <link rel='stylesheet' href='css/layouts/msg.css'>
 </head>
 <body>
+<div class='header'>
+    <div class='home-menu pure-menu pure-menu-horizontal pure-menu-fixed'>
+        <a class='pure-menu-heading' href=''>EducVirtual</a>
+
+        <ul class='pure-menu-list'>
+            <li class='pure-menu-item pure-menu-selected'><a href='' class='pure-menu-link'>Início</a></li>
+            <li class='pure-menu-item'><a href='#servico' class='pure-menu-link'>Serviços</a></li>
+            <li class='pure-menu-item'><a href='#conato' class='pure-menu-link'>Contato</a></li>
+        </ul>
+
+    </div>
+</div>
 <div class='content'>
         <h2 class='content-head is-center'>Contato</h2>
 
@@ -140,7 +167,7 @@ if($enviaremail) {
 
                         <button type='submit' class='pure-button'>Enviar</button>
                         
-                        <p>" . $msg . "</p>
+                        <p class='msg-error'>" . $msg . "</p>
                         
                     </fieldset>
                 </form>
