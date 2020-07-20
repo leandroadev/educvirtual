@@ -27,13 +27,13 @@
 <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
         <a class="pure-menu-heading" href="">EducVirtual</a>
-<!--
+
         <ul class="pure-menu-list">
-            <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Início</a></li>
-            <li class="pure-menu-item"><a href="#" class="pure-menu-link">Sobre</a></li>
-            <li class="pure-menu-item"><a href="#" class="pure-menu-link">Acesso</a></li>
+            <li class="pure-menu-item pure-menu-selected"><a href="" class="pure-menu-link">Início</a></li>
+            <li class="pure-menu-item"><a href="#servico" class="pure-menu-link">Serviços</a></li>
+            <li class="pure-menu-item"><a href="#conato" class="pure-menu-link">Contato</a></li>
         </ul>
--->
+
     </div>
 </div>
 
@@ -51,7 +51,7 @@
 
 <div class="content-wrapper">
     <div class="content">
-        <h2 class="content-head is-center">Serviços</h2>
+        <h2 class="content-head is-center"><a name="servico"></a>Serviços</h2>
 
         <div class="pure-g">
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -121,7 +121,7 @@
     </div>
 
     <div class="content">
-        <h2 class="content-head is-center">Contato</h2>
+        <h2 class="content-head is-center"><a name="conato"></a>Contato</h2>
 
         <div class="pure-g">
             <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
