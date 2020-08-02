@@ -58,10 +58,10 @@
 
                 <h3 class="content-subhead">
                     <i class="fa fa-check-square-o"></i>
-                    Moodle
+                    Ambientes Virtuais de Aprendizagem
                 </h3>
                 <p>
-                    Instalação, gerenciamento e suporte ao Ambiente Virtual de Apredizagem - Moodle
+                    Instalação, Disponibilidade, Gerenciamento e Suporte de Ambientes Virtuais de Aprendizagem.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -88,7 +88,7 @@
                     Desenvolvimento
                 </h3>
                 <p>
-                    Desenvolvimento de sistemas web com as tecnologias HTML5, CSS3, JavaScript e PHP.
+                    Desenvolvimento de sistemas web.
                 </p>
             </div>
         </div>
@@ -115,7 +115,7 @@
             <p>Atuação na área Técnica, com experiência em Suporte Tecnológico e Desenvolvimento 
                 de Sistemas, experiência com monitoria de informática na educação infantil. 
                 Atuação na área de Desenvolvimento e Suporte Técnico a Sistemas de Gestão 
-                de Aprendizagem Implantados em empresas privadas.
+                de Aprendizagem Implantados em empresas privadas para capacitação de colaboradores.
             </p>
         </div>
     </div>
