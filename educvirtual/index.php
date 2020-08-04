@@ -30,8 +30,10 @@
 
         <ul class="pure-menu-list">
             <li class="pure-menu-item pure-menu-selected"><a href="" class="pure-menu-link">Início</a></li>
-            <li class="pure-menu-item"><a href="#servico" class="pure-menu-link">Serviços</a></li>
-            <li class="pure-menu-item"><a href="#conato" class="pure-menu-link">Contato</a></li>
+            <li class="pure-menu-item"><a href="#solucoes" class="pure-menu-link">Soluções</a></li>
+            <li class="pure-menu-item"><a href="#contato" class="pure-menu-link">Contato</a></li>
+            <li class="pure-menu-item"><a href="https://www.mailindeed.com/webmail
+" target="_blank" class="pure-menu-link">Webmail</a></li>
         </ul>
 
     </div>
@@ -41,17 +43,17 @@
     <div class="splash">
         <h1 class="splash-head">EducVirtual</h1>
         <p class="splash-subhead">
-            Análise de Sistemas, Desenvolvimento Web, Administração e Suporte de Ambientes Virtuais de Aprendizagem.
+            Disponibilização, Administração e Suporte de Ambientes Virtuais de Aprendizagem.
         </p>
         <p>
-            <a href="https://github.com/leandroadev" class="pure-button pure-button-primary">GitHub</a>
+            <a href="http://ead.educvirtual.com.br" target="_blank" class="pure-button pure-button-primary">Ambiente de teste</a>
         </p>
     </div>
 </div>
 
 <div class="content-wrapper">
     <div class="content">
-        <h2 class="content-head is-center"><a name="servico"></a>Serviços</h2>
+        <h2 class="content-head is-center"><a name="solucoes"></a>Soluções</h2>
 
         <div class="pure-g">
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -67,28 +69,28 @@
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
                     <i class="fa fa-check-square-o"></i>
-                    Computadores
+                    Recursos
                 </h3>
                 <p>
-                    Formatação, manutenção preventiva e corretiva de computadores.
+                    Disponibilização de recursos para oferta de cursos, disciplinas e aulas online.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
                     <i class="fa fa-check-square-o"></i>
-                    Suporte TI
+                    Atividades
                 </h3>
                 <p>
-                    Suporte a usuários de informática.
+                    Disponibilização de atividades para cursos, disciplinas e aulas online.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                 <h3 class="content-subhead">
                     <i class="fa fa-check-square-o"></i>
-                    Desenvolvimento
+                    Suporte Tecnológico
                 </h3>
                 <p>
-                    Desenvolvimento de sistemas web.
+                    Suporte profissional especializado.
                 </p>
             </div>
         </div>
@@ -121,7 +123,7 @@
     </div>
 
     <div class="content">
-        <h2 class="content-head is-center"><a name="conato"></a>Contato</h2>
+        <h2 class="content-head is-center"><a name="contato"></a>Contato</h2>
 
         <div class="pure-g">
             <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
@@ -151,7 +153,8 @@
 
                 <h4>Mais Informações</h4>
                 <p>
-                    Para mais informações sobre os serviços oferecidos, consulte-nos.
+                    Para mais informações sobre os nossos serviços, consulte-nos também pelo
+                    WhatsApp: (38) 99197-6878
                 </p>
             </div>
         </div>
