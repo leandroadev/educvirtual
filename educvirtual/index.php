@@ -72,7 +72,7 @@
                     Recursos
                 </h3>
                 <p>
-                    Disponibilização de recursos para oferta de cursos, disciplinas e aulas online.
+                    Disponibilização, configuração de recursos que permitem acesso a materiais didáticos em oferta de cursos, disciplinas e aulas online.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
@@ -81,7 +81,7 @@
                     Atividades
                 </h3>
                 <p>
-                    Disponibilização de atividades para cursos, disciplinas e aulas online.
+                    Disponibilização, configuração de atividades avaliativas para cursos, disciplinas e aulas online.
                 </p>
             </div>
             <div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
